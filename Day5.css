@@ -1,0 +1,57 @@
+/* In this we have learned about white -spaces */
+/* .container1{
+border: 2px solid  black;
+white-space:pre;
+
+} */
+
+
+/* text-overflow */
+/* .container1{
+    border:3px solid black;
+    white-space: nowrap;
+    overflow: hidden;
+    /* text-overflow:ellipsis; */
+    /* text-overflow:"-"; *//*only works in firefox*/
+/* }  */
+
+
+/*Writing Mode  */
+
+/* .container1{
+
+    border: 2px solid black;
+    writing-mode: vertical-lr; */
+
+    /* writing-mode: sideways-rl;
+    writing-mode: sideways-lr; *//*only works in firefox*/
+
+
+
+/* } */
+
+
+
+
+/* column count */
+/* 
+ .container1{
+    border: 0px solid black;
+    width: 100%;
+    column-count: 3;
+    column-rule: 3px dashed red;
+    column-width: 32px;
+    column-fill: balance;
+
+ }
+ h1{
+   
+    color: black;
+    column-span: all;
+ } */
+
+
+
+
+ 
+ 

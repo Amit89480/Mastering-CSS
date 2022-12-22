@@ -1,0 +1,47 @@
+/* .container1{
+    border: 2px solid saddlebrown ;
+
+    column-count: 3;
+    column-rule:2px;
+    column-rule-style: solid;
+    column-rule-color: red;
+    column-fill: all;
+} */
+
+/* @font-face {
+    font-family: amit;
+    src: url(font/OpenSans-LightItalic-webfont.woff);
+} */
+
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap"); */
+
+/* .container1 {
+  border: 2px solid green;
+  font-family: "Roboto Condensed", sans-serif;
+} */
+
+
+
+
+/* 
+.list1{
+    border: 2px solid black;
+    list-style: upper-alpha inside url(font/3994400_arrow_forward_navigation_next_right_icon.png) ;
+}  */
+
+
+
+body{
+    color: blue;
+
+    background: url('https://wallpapers.com/images/hd/contrasting-scenic-views-a5u9zq0a0ymy2dug.jpg') no-repeat center;
+}
+
+
+
+
+
+
+
+
+

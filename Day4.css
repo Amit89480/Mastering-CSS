@@ -1,0 +1,46 @@
+/* Text- Formatting */
+/* .container1{
+    border: 2px solid black;
+    width: 70%;
+    text-align: left;
+    text-align-last:right;
+    text-transform: capitalize;
+    text-indent: 20px;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+} */
+
+
+s{
+    font-size: 30px;
+}
+
+/* Text-Decoration */
+
+/* .container1{
+    border: 3px solid green;
+    width: 500px;
+    text-decoration: line-through red wavy;
+} */
+
+
+
+/* Word-wrap and Word Break */
+/* .container1{
+    border: 3px solid black;
+    width: 500px;
+    word-wrap: break-word;
+    word-break: break-all;
+} */
+
+
+
+
+/* Text-Shadow */
+/* 
+h1{
+    text-shadow: 20px 20px 5px red,-20px -20px 5px rgb(25, 1, 1);
+} */
+
+
+/*  */

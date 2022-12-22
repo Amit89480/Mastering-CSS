@@ -1,0 +1,65 @@
+/* we have learned like how css workde and how to implement css and bg color and color */
+
+/* background color */
+/* h1{
+    color: rgb(148, 177, 16);
+}
+p{
+background-color: green;
+color: white;
+
+} */
+
+
+/* borders */
+/* p{
+    border-left:4px inset rgb(130, 38, 38);
+    border-right:4px double rgb(175, 137, 137);
+    border-top:4px dashed rgb(168, 163, 163);
+    border-bottom:4px groove rgb(57, 21, 21);
+} */
+
+
+/*CSS outline*/
+/* here we are using the outline offset to give border outside border */
+/* p{
+    border:  2px  solid rgb(191, 47, 47);
+    outline: 2px solid green;
+   outline-offset: 2px;
+} */
+
+
+/*CSS Padding*/
+/* here we follow TRBL method */
+
+/* .container{
+    background-color: red;
+    border: 3px solid black;
+    padding: 20px 50px 10px 56px;
+
+} */
+
+
+
+/* Margin */
+/* in container2 we have used some properties to center a div */
+/* .container{
+    border: 4px solid rgb(224, 38, 38);
+    margin-bottom: 10px;
+}
+.container2{
+    border: 4px solid rgb(112, 12, 12);
+    width: 500px;
+    margin:0 auto 0 auto;
+} */
+
+
+/* Height and Width */
+/* .container{
+    border: 2px solid black;
+    width: 50%;
+    height: 100px;
+} */
+
+
+
